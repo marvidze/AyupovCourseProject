@@ -43,7 +43,7 @@
             // buttonChangeData
             // 
             this.buttonChangeData.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.buttonChangeData.Location = new System.Drawing.Point(655, 74);
+            this.buttonChangeData.Location = new System.Drawing.Point(666, 74);
             this.buttonChangeData.Name = "buttonChangeData";
             this.buttonChangeData.Size = new System.Drawing.Size(206, 57);
             this.buttonChangeData.TabIndex = 1;
@@ -62,7 +62,7 @@
             // buttonDeleteDocument
             // 
             this.buttonDeleteDocument.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.buttonDeleteDocument.Location = new System.Drawing.Point(655, 137);
+            this.buttonDeleteDocument.Location = new System.Drawing.Point(666, 137);
             this.buttonDeleteDocument.Name = "buttonDeleteDocument";
             this.buttonDeleteDocument.Size = new System.Drawing.Size(206, 57);
             this.buttonDeleteDocument.TabIndex = 3;
@@ -72,7 +72,7 @@
             // buttonCreateDocument
             // 
             this.buttonCreateDocument.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.buttonCreateDocument.Location = new System.Drawing.Point(655, 200);
+            this.buttonCreateDocument.Location = new System.Drawing.Point(666, 200);
             this.buttonCreateDocument.Name = "buttonCreateDocument";
             this.buttonCreateDocument.Size = new System.Drawing.Size(206, 57);
             this.buttonCreateDocument.TabIndex = 4;
@@ -102,7 +102,8 @@
             // buttonExit
             // 
             this.buttonExit.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.buttonExit.Location = new System.Drawing.Point(655, 492);
+            this.buttonExit.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.buttonExit.Location = new System.Drawing.Point(666, 492);
             this.buttonExit.Name = "buttonExit";
             this.buttonExit.Size = new System.Drawing.Size(206, 57);
             this.buttonExit.TabIndex = 7;
